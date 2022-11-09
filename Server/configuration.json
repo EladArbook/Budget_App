@@ -1,0 +1,5 @@
+{
+    "port": 3800,
+    "incomeApi": "/api/wallet/income",
+    "outcomeApi": "/api/wallet/outcome"
+}

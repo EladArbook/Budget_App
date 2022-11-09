@@ -1,0 +1,20 @@
+[
+    {
+        "amount": 280,
+        "description": "castro",
+        "category": 2,
+        "date": "2022-10-23T10:15:00.827Z"
+    },
+    {
+        "amount": 150,
+        "description": "car",
+        "category": 3,
+        "date": "2022-10-25T10:15:00.827Z"
+    },
+    {
+        "amount": 4200,
+        "description": "",
+        "category": 4,
+        "date": "2022-10-28T10:15:00.827Z"
+    }
+]

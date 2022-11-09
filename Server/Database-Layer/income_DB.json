@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 5000,
+        "description": "october",
+        "category": 1,
+        "date": "2022-10-28T10:15:00.827Z"
+    },
+    {
+        "amount": 6500,
+        "description": "November",
+        "category": 1,
+        "date": "2022-11-28T10:15:00.827Z"
+    }
+]

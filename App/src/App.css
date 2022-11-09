@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: rgb(141, 238, 109);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Old versions of Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+body {
+  margin: 5px;
+}
+
+.App>h1 {
+  color: brown;
+  text-decoration: underline;
+  padding: 5px;
+}
+
+hr {
+  opacity: 50%;
+}

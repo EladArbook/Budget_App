@@ -1,0 +1,52 @@
+.AddOutcome {
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.AddOutcome input {
+    font-weight: bold;
+    height: 20px;
+    width: 150px;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+
+.AddOutcome select {
+    font-weight: bold;
+    height: 23px;
+    width: 160px;
+    border-radius: 5px;
+    padding-left: 5px;
+    border: 2px solid black;
+}
+
+.AddOutcome button {
+    background-color: rgba(230, 230, 230, 0.5);
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 5p;
+}
+
+.AddOutcome button:hover {
+    background-color: rgba(255, 255, 0, 0.5);
+}
+
+.AddOutcome button:active {
+    background-color: rgba(255, 255, 0, 0.9);
+}
+
+.AddOutcome tr {
+    height: 15px;
+}
+
+.success {
+    color: rgb(255, 123, 0);
+    background-color: rgba(255, 255, 0, 0.5);
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 3px;
+}

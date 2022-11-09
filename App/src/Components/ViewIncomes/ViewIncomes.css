@@ -1,0 +1,26 @@
+.ViewIncomes {
+    text-align: center;
+    max-height: 250px;
+    /*     overflow: scroll; */
+    display: inline-block;
+}
+
+.ViewIncomes td {
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 2px;
+}
+
+.ViewIncomes .tdEdit {
+    color: brown;
+}
+
+/* .ViewIncomes .tdDelete {} */
+
+td{
+    min-width: 100px;
+}
+
+.tdInput{
+    width: 90px;
+}
